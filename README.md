@@ -7,7 +7,8 @@ streamlitとmediapipeを用いたHand Pose EstimationのWebアプリケーショ
 <img src="./img/estimation.png">
 
 ## Deploy
-下記URLにてデプロイしています。無料枠のため
+下記URLにてデプロイしています。無料枠のため動作が少々重たいかもしれません
+- [https://hand-pose-estimation.streamlit.app/](https://hand-pose-estimation.streamlit.app/)
 
 ## Setup
 ローカル環境で動かす場合以下のライブラリが入っていれば動くと思います。
