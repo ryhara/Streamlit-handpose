@@ -2,6 +2,10 @@
 
 streamlitとmediapipeを用いたHand Pose EstimationのWebアプリケーションです。
 
+<img src="./img/app.png">
+
+<img src="./img/estimation.png">
+
 
 ## Setup
 ローカル環境で動かす場合以下のライブラリが入っていれば動くと思います。
