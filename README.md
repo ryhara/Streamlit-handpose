@@ -6,6 +6,8 @@ streamlitとmediapipeを用いたHand Pose EstimationのWebアプリケーショ
 
 <img src="./img/estimation.png">
 
+## Deploy
+下記URLにてデプロイしています。無料枠のため
 
 ## Setup
 ローカル環境で動かす場合以下のライブラリが入っていれば動くと思います。
@@ -14,6 +16,10 @@ streamlitとmediapipeを用いたHand Pose EstimationのWebアプリケーショ
 - mediapipe=0.10.9
 - opencv
 - av
+
+```
+pip install -r requirements.txt
+```
 
 ## Usage
 ```
